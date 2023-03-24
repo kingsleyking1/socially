@@ -351,9 +351,9 @@ section{
 }
 
 .features .box-container .box p{
-    font-size: 1.5rem;
-    /*line-height: 1.8;
-    padding:1rem 0;*/
+    font-size: 150%;
+    line-height: 1.8;
+    padding:1rem 0;
     color:var(--light-color);
     
 }
@@ -772,6 +772,19 @@ th,td{
         justify-content: center;
     }
     
+    .features .box-container .box p{
+
+    font-size: 1.5rem;
+
+    line-height: 1.8;
+
+    padding:1rem 0;
+
+    color:var(--light-color);
+
+    
+
+}
 
     .footer .box-container{
         align-items: center;
