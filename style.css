@@ -352,9 +352,10 @@ section{
 
 .features .box-container .box p{
     font-size: 1.5rem;
-    line-height: 1.8;
+    /*line-height: 1.8;
+    padding:1rem 0;*/
     color:var(--light-color);
-    padding:1rem 0;
+    
 }
 
 .products .product-slider{
